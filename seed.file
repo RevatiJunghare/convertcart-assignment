@@ -1,0 +1,92 @@
+{
+    "dishes": [
+        {
+            "restaurentId": 8,
+            "restaurentname": "Oakaz Restaurent",
+            "city": "Indore",
+            "dishname": "Paneer Bonanza Pizza",
+            "dishprice": 470.5,
+            "ordercount": 98
+        },
+        {
+            "restaurentId": 11,
+            "restaurentname": "Spice Terrace",
+            "city": "Bengalore",
+            "dishname": "Paneer Tikka",
+            "dishprice": 700,
+            "ordercount": 98
+        },
+        {
+            "restaurentId": 3,
+            "restaurentname": "Nagarjuna Restaurent",
+            "city": "Bengalore",
+            "dishname": "Fish Fry",
+            "dishprice": 450.5,
+            "ordercount": 89
+        },
+        {
+            "restaurentId": 5,
+            "restaurentname": "The Imperial spice",
+            "city": "Delhi",
+            "dishname": "Veg Biryani",
+            "dishprice": 250,
+            "ordercount": 76
+        },
+        {
+            "restaurentId": 10,
+            "restaurentname": "The Salt Cafe Noida",
+            "city": "Noida",
+            "dishname": "Hunan Chicken",
+            "dishprice": 660,
+            "ordercount": 67
+        },
+        {
+            "restaurentId": 9,
+            "restaurentname": "The Sky High Noida",
+            "city": "Noida",
+            "dishname": "Pizza Margherita",
+            "dishprice": 550,
+            "ordercount": 67
+        },
+        {
+            "restaurentId": 6,
+            "restaurentname": "Indian Grill Room",
+            "city": "Gurgaon",
+            "dishname": "Virgin Mojito",
+            "dishprice": 280,
+            "ordercount": 65
+        },
+        {
+            "restaurentId": 2,
+            "restaurentname": "East street cafe",
+            "city": "Pune",
+            "dishname": "The Tandoori Chicken",
+            "dishprice": 330.5,
+            "ordercount": 56
+        },
+        {
+            "restaurentId": 4,
+            "restaurentname": "The Bombay Cartel",
+            "city": "Mumbai",
+            "dishname": "Sizzling Brownie",
+            "dishprice": 500,
+            "ordercount": 45
+        },
+        {
+            "restaurentId": 1,
+            "restaurentname": "Hyderabadi Spice House",
+            "city": "Hyderabad",
+            "dishname": "Chicken Biryani",
+            "dishprice": 220,
+            "ordercount": 34
+        },
+        {
+            "restaurentId": 7,
+            "restaurentname": "Dakshin",
+            "city": "Chennai",
+            "dishname": "Curd Rice",
+            "dishprice": 150,
+            "ordercount": 23
+        }
+    ]
+}
