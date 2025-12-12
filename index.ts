@@ -1,5 +1,8 @@
+import dotenv from "dotenv";
+dotenv.config();
 import "reflect-metadata";
 import { AppDataSource } from "./datasource";
+
 const express = require('express');
 const { dishrouter } = require('./router/dishes.router');
 const cors = require('cors');

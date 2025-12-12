@@ -103,6 +103,6 @@ GET http://localhost:8085/search/dishes?name=Biryani&minPrice=150&maxPrice=700
 "message": "Biryani is not found in this price range"
 }
 
-You can then run:
+You can then run: npm run dev
 
 
